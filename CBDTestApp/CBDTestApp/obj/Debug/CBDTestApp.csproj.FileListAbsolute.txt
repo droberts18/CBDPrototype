@@ -1,0 +1,14 @@
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\bin\Debug\CBDTestApp.exe.config
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\MainWindow.g.cs
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\App.g.cs
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp_MarkupCompile.cache
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp_MarkupCompile.lref
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\bin\Debug\CBDTestApp.exe
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\bin\Debug\CBDTestApp.pdb
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\MainWindow.baml
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp.g.resources
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp.Properties.Resources.resources
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp.csproj.GenerateResource.Cache
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp.exe
+C:\Users\Drew Roberts\Desktop\CBDTestApp\CBDTestApp\obj\Debug\CBDTestApp.pdb
